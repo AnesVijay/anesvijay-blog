@@ -1,4 +1,4 @@
 ---
 Title: Главная
 ---
-[[about]]
+[about](about.md)
