@@ -1,2 +1,5 @@
 # ignore link to obsidian notes
 #content/*
+
+# ignore public hugo build directory
+public/*
