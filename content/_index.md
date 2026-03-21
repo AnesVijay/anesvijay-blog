@@ -1,5 +1,6 @@
 ---
 Title: Главная
+date: 2026-01-01
 ---
 
-[about](about.md)
+[О проекте](about.md)
