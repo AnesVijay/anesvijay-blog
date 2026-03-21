@@ -11,7 +11,7 @@ defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableA11y = false
-enableSearch = true
+enableSearch = false # TODO нужно будет включить, когда появится много статей
 enableCodeCopy = false
 enableStructuredBreadcrumbs = false
 # enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
@@ -93,7 +93,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = false
+  sharingLinks = ["email", "whatsapp", "telegram"]
+  showZenMode = true
 
 [list]
   showHero = false

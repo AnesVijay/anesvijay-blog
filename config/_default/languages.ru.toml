@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "ru"
+languageName = "Russian"
 weight = 1
-title = "AnesVijay's site"
+title = "Уголок спокойствия"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "RU"
+  isoCode = "ru"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
@@ -15,11 +15,11 @@ title = "AnesVijay's site"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Andrey Krayzel"
+   name = "Андрей Крайзель"
    email = "2011andreyka@gmail.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-    headline = "IT nerd · Musician · Life Explorer"
+    headline = "Техно-энтузиаст · Путешественник по жизни"
    #headline = "IT | Music | Travelling"
    #bio = "DevOps,Automations,Infra · Musician · Life Explorer"
    links = [
